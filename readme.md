@@ -1,6 +1,6 @@
 
 ```
-use can use this api(https://backend-logi.vercel.app/)
+You can use this api(https://backend-logi.vercel.app/)
 routes for (/login)
 routes for (/signup)
 ```
