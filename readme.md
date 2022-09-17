@@ -1,4 +1,10 @@
 
+```
+use can use this api(https://backend-logi.vercel.app/)
+routes for (/login)
+routes for (/signup)
+```
+
 
 
 # Authentications 
